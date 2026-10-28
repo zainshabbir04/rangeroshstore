@@ -12,7 +12,7 @@ export const BRAND_CONFIG = {
   country: 'Pakistan',
   currencyCode: 'PKR',
   currencySymbol: 'Rs.',
-  siteUrl: (import.meta.env.VITE_SITE_URL || 'https://rangerosh.pk').replace(/\/$/, ''),
+  siteUrl: (import.meta.env.VITE_SITE_URL || 'https://rangeroshstore.vercel.app').replace(/\/$/, ''),
   metaPixelId: import.meta.env.VITE_META_PIXEL_ID || '',
   supabaseUrl: import.meta.env.VITE_SUPABASE_URL || '',
   supabaseAnonKey: import.meta.env.VITE_SUPABASE_ANON_KEY || '',

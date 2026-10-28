@@ -1,57 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rangerosh.pk/</loc>
+    <loc>https://rangeroshstore.vercel.app/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://rangerosh.pk/shop</loc>
+    <loc>https://rangeroshstore.vercel.app/shop</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://rangerosh.pk/collections/festive-pret</loc>
+    <loc>https://rangeroshstore.vercel.app/collections/signature-pret</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://rangerosh.pk/collections/luxury-formals</loc>
+    <loc>https://rangeroshstore.vercel.app/collections/luxury-embroidered</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://rangerosh.pk/collections/everyday-stitched</loc>
+    <loc>https://rangeroshstore.vercel.app/collections/pret-essentials</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://rangerosh.pk/collections/chiffon-exclusives</loc>
+    <loc>https://rangeroshstore.vercel.app/collections/everyday-stitched</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://rangerosh.pk/contact</loc>
+    <loc>https://rangeroshstore.vercel.app/product/hazel-cranberry-red-embroidered-2pc</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rangeroshstore.vercel.app/product/anna-black-karandi-embroidered-2pc</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rangeroshstore.vercel.app/product/rust-embroidered-stitched-2pc</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rangeroshstore.vercel.app/product/zaitoon-green-embroidered-2pc</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rangeroshstore.vercel.app/product/orchid-purple-embroidered-culottes-2pc</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rangeroshstore.vercel.app/product/daria-emerald-green-embroidered-2pc</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rangeroshstore.vercel.app/contact</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rangerosh.pk/shipping-policy</loc>
+    <loc>https://rangeroshstore.vercel.app/shipping-policy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rangerosh.pk/returns-policy</loc>
+    <loc>https://rangeroshstore.vercel.app/returns-policy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rangerosh.pk/privacy-policy</loc>
+    <loc>https://rangeroshstore.vercel.app/privacy-policy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://rangerosh.pk/terms</loc>
+    <loc>https://rangeroshstore.vercel.app/terms</loc>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
