@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FAF7F2"/>
+      <stop offset="55%" stop-color="#F0EAE1"/>
+      <stop offset="100%" stop-color="#E5DDD0"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B8860B"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#9A7109"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <!-- Decorative Arch & Botanical Motif -->
+  <path d="M 1050 900 L 1050 380 A 220 220 0 0 1 1490 380 L 1490 900 Z" fill="#FAF7F2" stroke="url(#gold)" stroke-width="2" opacity="0.9"/>
+  <path d="M 1075 900 L 1075 390 A 195 195 0 0 1 1465 390 L 1465 900 Z" fill="none" stroke="#9E4769" stroke-width="1" stroke-dasharray="6,6" opacity="0.45"/>
+  <!-- Abstract Stitched Suit Silhouette inside Arch -->
+  <g transform="translate(1270, 480)">
+    <circle cx="0" cy="-145" r="32" fill="none" stroke="#3B0A45" stroke-width="2"/>
+    <path d="M -45 -95 L 45 -95 L 85 110 L 58 115 L 38 -30 L 55 240 L -55 240 L -38 -30 L -58 115 L -85 110 Z" fill="#FAF7F2" stroke="#3B0A45" stroke-width="2.2"/>
+    <!-- Neckline Embroidery Motif -->
+    <path d="M -22 -95 L 0 -35 L 22 -95" fill="none" stroke="url(#gold)" stroke-width="2.5"/>
+    <circle cx="0" cy="-22" r="5" fill="#9E4769"/>
+    <circle cx="-12" cy="-50" r="3.5" fill="#B8860B"/>
+    <circle cx="12" cy="-50" r="3.5" fill="#B8860B"/>
+    <!-- Daman Border -->
+    <line x1="-52" y1="215" x2="52" y2="215" stroke="url(#gold)" stroke-width="3"/>
+    <line x1="-53" y1="225" x2="53" y2="225" stroke="#9E4769" stroke-width="1.5"/>
+    <!-- Trouser Silhouette -->
+    <path d="M -36 240 L -32 340 L -8 340 L -4 240 M 4 240 L 8 340 L 32 340 L 36 240" fill="none" stroke="#3B0A45" stroke-width="2"/>
+    <!-- Flowing Dupatta Drape -->
+    <path d="M -45 -90 Q -120 40 -90 220 Q -70 260 -35 200" fill="none" stroke="#9E4769" stroke-width="2" opacity="0.65"/>
+  </g>
+  <rect x="1095" y="100" width="350" height="34" rx="17" fill="#3B0A45" opacity="0.08"/>
+  <text x="1270" y="122" font-family="Georgia, serif" font-size="13" fill="#3B0A45" letter-spacing="3" text-anchor="middle">SAMPLE CAMPAIGN ARTWORK</text>
+</svg>

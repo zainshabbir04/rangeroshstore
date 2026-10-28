@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1050" width="800" height="1050">
+  <rect width="800" height="1050" fill="#FAF7F2"/>
+  <rect x="36" y="36" width="728" height="978" fill="#F4E6EC" stroke="#9E4769" stroke-width="1.5" opacity="0.6"/>
+  <path d="M 190 880 L 190 360 A 210 210 0 0 1 610 360 L 610 880 Z" fill="#FAF7F2" stroke="#9E4769" stroke-width="1.5"/>
+  <g transform="translate(400, 480)">
+    <path d="M -55 -130 L 55 -130 L 105 90 L 72 100 L 45 -50 L 68 230 L -68 230 L -45 -50 L -72 100 L -105 90 Z" fill="#D89BAE" opacity="0.35" stroke="#9E4769" stroke-width="2.2"/>
+    <path d="M -26 -130 L 0 -55 L 26 -130" fill="none" stroke="#B8860B" stroke-width="2.5"/>
+    <line x1="-65" y1="205" x2="65" y2="205" stroke="#B8860B" stroke-width="3"/>
+    <path d="M -46 230 L -48 330 L -8 330 L -6 230 M 6 230 L 8 330 L 48 330 L 46 230" fill="#D89BAE" opacity="0.25" stroke="#9E4769" stroke-width="1.8"/>
+  </g>
+  <rect x="240" y="75" width="320" height="32" rx="16" fill="#9E4769" opacity="0.12"/>
+  <text x="400" y="96" font-family="sans-serif" font-size="11" font-weight="600" fill="#9E4769" letter-spacing="3" text-anchor="middle">SAMPLE PRODUCT PHOTO</text>
+  <text x="400" y="940" font-family="Georgia, serif" font-size="28" fill="#1E1E24" text-anchor="middle">Gul-e-Lala Raw Silk</text>
+  <text x="400" y="972" font-family="sans-serif" font-size="13" fill="#7A756E" letter-spacing="2.5" text-anchor="middle">MUTED ROSE • ZARI TISSUE DUPATTA</text>
+</svg>

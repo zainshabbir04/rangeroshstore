@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1050" width="800" height="1050">
+  <rect width="800" height="1050" fill="#FAF7F2"/>
+  <rect x="36" y="36" width="728" height="978" fill="#EFEAE2" stroke="#8C7A6B" stroke-width="1.5" opacity="0.6"/>
+  <path d="M 190 880 L 190 360 A 210 210 0 0 1 610 360 L 610 880 Z" fill="#FAF7F2" stroke="#8C7A6B" stroke-width="1.5"/>
+  <g transform="translate(400, 480)">
+    <path d="M -55 -130 L 55 -130 L 100 85 L 68 95 L 44 -50 L 62 210 L -62 210 L -44 -50 L -68 95 L -100 85 Z" fill="#E3DACD" opacity="0.7" stroke="#5C4E43" stroke-width="2"/>
+    <line x1="0" y1="-130" x2="0" y2="-20" stroke="#5C4E43" stroke-width="2"/>
+    <path d="M -42 210 L -38 330 L -8 330 L -4 210 M 4 210 L 8 330 L 38 330 L 42 210" fill="#E3DACD" opacity="0.65" stroke="#5C4E43" stroke-width="1.8"/>
+  </g>
+  <rect x="240" y="75" width="320" height="32" rx="16" fill="#5C4E43" opacity="0.12"/>
+  <text x="400" y="96" font-family="sans-serif" font-size="11" font-weight="600" fill="#5C4E43" letter-spacing="3" text-anchor="middle">SAMPLE PRODUCT PHOTO</text>
+  <text x="400" y="940" font-family="Georgia, serif" font-size="28" fill="#1E1E24" text-anchor="middle">Sabaahat Cotton Co-Ord Set</text>
+  <text x="400" y="972" font-family="sans-serif" font-size="13" fill="#7A756E" letter-spacing="2.5" text-anchor="middle">SOFT BEIGE • EVERYDAY STITCHED 2-PC</text>
+</svg>

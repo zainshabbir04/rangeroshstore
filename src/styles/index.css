@@ -1,0 +1,90 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Cormorant Garamond", Georgia, Cambria, "Times New Roman", Times, serif;
+  --font-sans: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+
+  --color-ivory: #FAF7F2;
+  --color-ivory-warm: #F6F1E9;
+  --color-beige: #EFE8DD;
+  --color-beige-dark: #DFD5C6;
+  --color-rose: #9E4769;
+  --color-rose-dark: #7D3451;
+  --color-charcoal: #18181D;
+  --color-plum: #2E0836;
+  --color-gold: #B8860B;
+  --color-gold-light: #D4AF37;
+  --color-teal: #215760;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    background-color: var(--color-ivory);
+    color: var(--color-charcoal);
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, h4, .font-editorial {
+    font-family: var(--font-serif);
+    letter-spacing: -0.01em;
+  }
+}
+
+/* Subtle luxury frame & divider utilities */
+.luxury-double-border {
+  border: 1px solid #E2D9CC;
+  box-shadow: inset 0 0 0 4px #FAF7F2, inset 0 0 0 5px rgba(184, 134, 11, 0.25);
+}
+
+.gold-hairline {
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(184, 134, 11, 0.45) 50%,
+    transparent 100%
+  );
+  height: 1px;
+}
+
+@keyframes slowFadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-editorial-fade {
+  animation: slowFadeUp 0.6s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Subtle custom scrollbar */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+::-webkit-scrollbar-track {
+  background: #FAF7F2;
+}
+::-webkit-scrollbar-thumb {
+  background: #D0C6B8;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #9E4769;
+}
